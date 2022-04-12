@@ -7,7 +7,7 @@
 <a href="https://loukas.cn">Blog</a> •
 <a href="https://t.me/A1227">Telegram</a></p>
 
-<p><img alt="Counter" src="https://count.getloli.com/get/@8680?theme=asoul"/>  </p>
+<p><img alt="Counter" src="https://count.koalarong.com/get/@8680?theme=asoul"/>  </p>
 
 <p><img alt="" src="https://img.shields.io/badge/-Git-f05032?style=flat-square&amp;logo=git&amp;logoColor=white"/>
 <img alt="" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&amp;logo=html5&amp;logoColor=white"/>
