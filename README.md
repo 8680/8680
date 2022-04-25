@@ -1,7 +1,6 @@
 <div align='center' >
   
 <h1 align="center">👋 Hi, I'm Loukas</h1>
-<h3 align="center">A handsome guy from Jiangxi China.</h3>
 
 <p><a href="https://github.com/8680">Home</a> •
 <a href="https://loukas.cn">Blog</a> •
