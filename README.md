@@ -30,10 +30,3 @@
       <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=8680&layout=compact" />
     </a>
 </p>
-
-<p align="center">
-    <a href="https://github.com/8680">
-      <img alt="Most Used Languages" src="https://raw.githubusercontent.com/8680/8680/master/assets/github-contribution-grid-snake.svg" />
-    </a>
-</p>
-
