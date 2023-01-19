@@ -20,13 +20,13 @@
 
 <p align="center">
     <a href="https://github.com/8680">
-      <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=8680&show_icons=true&theme=default" />
+      <img alt="GitHub Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=8680&show_icons=true&theme=default" />
     </a>
      
 </p>
 
 <p align="center">
     <a href="https://github.com/8680">
-      <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=8680&layout=compact" />
+      <img alt="Most Used Languages" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=8680&layout=compact" />
     </a>
 </p>
